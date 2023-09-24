@@ -8,6 +8,8 @@ module.exports = {
         extensions: ['.ts', '.tsx', '.jsx', '.js', '.json'],
         alias: {
           '@env': ['./src/utils/env/index'],
+          '@modules': ['./src/modules/'],
+          '@routes': ['./src/routes/'],
         },
       },
     ],

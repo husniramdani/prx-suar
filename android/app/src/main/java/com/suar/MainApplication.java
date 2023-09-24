@@ -1,4 +1,4 @@
-package com.adunasib;
+package com.suar;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

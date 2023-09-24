@@ -14,7 +14,9 @@
     "baseUrl": ".",
     "paths": {
       "react": ["./node_modules/@types/react"],
-      "@env": ["./src/utils/env/index"]
+      "@env": ["./src/utils/env/index"],
+      "@modules/*": ["./src/modules/*"],
+      "@routes/*": ["./src/routes/*"],
     }
   },
   "include": ["./src/**/*.ts", "./src/**/*.tsx", "src/App.js"],

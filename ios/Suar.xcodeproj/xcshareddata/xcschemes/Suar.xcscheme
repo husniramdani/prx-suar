@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "adunasib.app"
-               BlueprintName = "adunasib"
-               ReferencedContainer = "container:adunasib.xcodeproj">
+               BuildableName = "Suar.app"
+               BlueprintName = "Suar"
+               ReferencedContainer = "container:Suar.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "adunasibTests.xctest"
-               BlueprintName = "adunasibTests"
-               ReferencedContainer = "container:adunasib.xcodeproj">
+               BuildableName = "SuarTests.xctest"
+               BlueprintName = "SuarTests"
+               ReferencedContainer = "container:Suar.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "adunasib.app"
-            BlueprintName = "adunasib"
-            ReferencedContainer = "container:adunasib.xcodeproj">
+            BuildableName = "Suar.app"
+            BlueprintName = "Suar"
+            ReferencedContainer = "container:Suar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "adunasib.app"
-            BlueprintName = "adunasib"
-            ReferencedContainer = "container:adunasib.xcodeproj">
+            BuildableName = "Suar.app"
+            BlueprintName = "Suar"
+            ReferencedContainer = "container:Suar.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
