@@ -3,7 +3,6 @@ import LinearGradient from 'react-native-linear-gradient';
 
 import { splashScreenStyles } from './styles';
 import { Svg } from '@components';
-import { SPLASH_1 } from '@images';
 
 function SplashScreen() {
   return (
